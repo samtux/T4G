@@ -1,11 +1,10 @@
-# T4G
+# T4MG
 
-T4G is a GTK-theme for the gnome desktop
+T4MG is a GTK-theme for the Manjaro gnome desktop, fork of https://github.com/paullinuxthemer/T4G
 
-T4G (Theme For Gnome)
+T4MG (Theme For Manjaro Gnome)
 
-![s](https://cn.pling.com/img/6/6/a/1/9bed617b1629c504a49bb550eca42b19cf73.jpg)
-
+<a href="https://imgur.com/TZcvP7a"><img src="https://i.imgur.com/TZcvP7a.png" title="source: imgur.com" /></a>
 
 A heavily modified version of the Arc-theme with many transparent items
 
